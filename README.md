@@ -39,8 +39,8 @@ Principais elementos:
 
 ## 👩‍💻 Desenvolvedores 
 
-- Julia Schiavi
-- Thayna Lopes
-- Sofia Bomeny
-- Leonardo Grosskopf
+- Julia Souza Costa Schiavi - 562418
+- Leonardo Grosskopf Martins - 562255
+- Thayná Ferreira Lopes - 566349
+- Sofia Viegas Bomeny - 563270
 
